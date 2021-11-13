@@ -1,6 +1,6 @@
 const W_WIDTH = 150
 const W_HEIGHT = 150
-const training_points = 200
+const training_points = 1000
 
 const RANGE = 45;
 const TOL = 0.85;
